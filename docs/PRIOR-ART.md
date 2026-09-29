@@ -68,6 +68,8 @@ For **Kansas** (`kansas`):
   https://www.kcur.org/community/2014-01-15/what-does-the-kansas-city-dialect-sound-like
 - **Visit Wichita — Talk like a local** —
   https://www.visitwichita.com/blog/post/talk-like-a-local/
+- **Wikipedia — Midland American English** —
+  https://en.wikipedia.org/wiki/Midland_American_English
 
 ## The contributors
 

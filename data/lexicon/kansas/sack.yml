@@ -1,0 +1,12 @@
+term: sack
+means: a paper or plastic shopping bag
+region: kansas
+register: 1
+part_of_speech: noun
+example: "Do you want a sack for that?"
+notes: >-
+  Wikipedia classifies sack as a Midland word and places northern Kansas
+  inside the Midland dialect region.
+sources:
+  - type: url
+    ref: https://en.wikipedia.org/wiki/Midland_American_English

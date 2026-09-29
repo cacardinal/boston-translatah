@@ -1,0 +1,9 @@
+phrase: "Everything is so expensive these days."
+local: "Everything is so expensive anymore."
+region: kansas
+notes: >-
+  Positive "anymore" means "nowadays" in a sentence with no negative.
+  Wikipedia lists Kansas among the Midland states where it is common.
+sources:
+  - type: url
+    ref: https://en.wikipedia.org/wiki/Positive_anymore

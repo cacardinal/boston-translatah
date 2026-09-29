@@ -1,0 +1,11 @@
+phrase: "The car needs to be washed."
+local: "The car needs washed."
+region: kansas
+notes: >-
+  The Midland construction drops "to be" after "needs." It works with other
+  verbs the same way, as in "the floor needs swept."
+sources:
+  - type: url
+    ref: https://en.wikipedia.org/wiki/Midland_American_English
+  - type: url
+    ref: https://www.kcur.org/community/2014-01-15/what-does-the-kansas-city-dialect-sound-like
